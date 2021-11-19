@@ -1,7 +1,3 @@
-```js
-.class-level-one div.content
-.main-wrap
-```
 
 ### 前言
 
